@@ -1,0 +1,27 @@
+{
+  "name": "fluxy-chat",
+  "version": "0.1.0",
+  "description": "Testing out Flux",
+  "main": "",
+  "dependencies": {
+    "flux": "^2.0.1",
+    "object-assign": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theseyi/fluxy-chat.git"
+  },
+  "keywords": [
+    "flux"
+  ],
+  "author": "Seyi Adebajo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theseyi/fluxy-chat/issues"
+  },
+  "homepage": "https://github.com/theseyi/fluxy-chat"
+}
